@@ -21,6 +21,12 @@ h1,h2{
 margin-bottom:20px;
 }
 
+.hero h1{
+font-size:64px;
+line-height:1.2;
+}
+}
+
 .hero{
 position:relative;
 color:white;
