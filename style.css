@@ -210,3 +210,11 @@ transition:0.3s;
 transform:translateY(-3px);
 opacity:0.9;
 }
+.hero-logo-text{
+font-size:64px;
+font-weight:700;
+margin-bottom:25px;
+color:white;
+text-shadow:0 4px 12px rgba(0,0,0,0.9);
+letter-spacing:1px;
+}
